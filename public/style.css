@@ -1,11 +1,13 @@
 body {
   font-family: Arial, sans-serif;
   font-size: 16px;
-  color: #222;
-  background-color: #fff;
+  color: #fcfcfc;
+  background-color: #1f1f1f;
   text-align: center;
   line-height: 1.4em;
+  padding-top: 40px;
 }
+
 
 main {
   padding: 0;
@@ -16,14 +18,16 @@ h3 {
   margin-top: 30px;
 }
 
-
+.goal{
+  padding: 10px;
+}
 
 .user-stories li {
   margin-bottom: 1em;
 }
 
 a {
-  color: #2574a9;
+  color: #55b7f9;
 }
 
 form {
